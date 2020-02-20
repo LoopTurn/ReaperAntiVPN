@@ -6,4 +6,4 @@ It uses many methods to detecting vpns like...
 - ASN detecting & blacklist
 
 To report a bypassing VPN or Proxy please join our discord server
-discord.gg/rvmjkDj
+https://discord.gg/rvmjkDj
